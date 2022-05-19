@@ -1,0 +1,12 @@
+API Key-----> AIzaSyAlhpQsh0Yq-eiQsxBnKtGrHwDGOorDwPE
+
+
+
+
+
+
+
+	https://www.googleapis.com/youtube/v3/search?key=AIzaSyAlhpQsh0Yq-eiQsxBnKtGrHwDGOorDwPE&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=6
+
+
+

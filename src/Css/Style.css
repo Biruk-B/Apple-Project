@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+img {
+  max-width: 100%;
+}
+.header-wrapper {
+  background-color: black;
+  color: white;
+  font-size: 17px;
+}
+.header-wrapper .internal-wrapper ul {
+  display: flex;
+  justify-content: space-between;
+}
+.header-wrapper .internal-wrapper ul li {
+  list-style: none;
+}
+.header-wrapper .internal-wrapper ul li a {
+  text-decoration: none;
+  color: white;
+}
+.internal-wrapper {
+  width: 980px;
+  padding: 10px 0;
+  margin: auto;
+}
+.header-wrapper .internal-wrapper ul li {
+  padding: 10px 0 8px;
+  height: 20px;
+  opacity: 0.8;
+}
+.header-wrapper .internal-wrapper ul li a:hover {
+  opacity: 1;
+}
+.logo-link,
+.search-link,
+.cart-link {
+  width: 18px;
+}
